@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f5f1;
+  color: #343f56;
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  background-color: #f8f5f1;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #f8f5f1;
+  width: 40px;
+  height: 40px;
+  background-color: #387c6d;
+}
+
+input {
+  outline: none;
+  margin-right: 30px;
+  width: 250px;
+  height: 40px;
+  font-size: 20px;
+}
+
+header {
+  margin: 50px 0 30px;
+}
+
+header h1 {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+form {
+  margin-bottom: 30px;
+}
+table {
+  margin: 40px auto;
+}
+td {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.del-button {
+  cursor: pointer;
+}
+
+.table-head td {
+  font-size: 25px;
+  font-weight: 700;
+}
